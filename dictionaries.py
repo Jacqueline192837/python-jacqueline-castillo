@@ -6,7 +6,10 @@ nucleotidos = 	{
 		  "G": "Guanina",
 		  "T": "Timina"
 		}
+
+print ("Length: ")
 print (len(nucleotidos))
+
 print (nucleotidos)
 
 print (nucleotidos["A"])

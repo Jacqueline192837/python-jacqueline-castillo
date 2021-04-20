@@ -34,6 +34,7 @@ print ("\n1.. n \n")
 
 n = 5
 sum = 0
+
 for i in range (1, n+1):
   print (i)
   sum = sum + i
@@ -54,10 +55,11 @@ for i in range (1, n+1):
 
 print ("n! = ", fact)
 
-print ("\nf(x) = x^3\n")
+print ("\nx, f(x) = x^2\n")
 
 # 1, 1
-# 2, 8
+# 2, 4
+# 3, 9
 
 for i in range (-10, 10+1, 1):
   fx = i*i
