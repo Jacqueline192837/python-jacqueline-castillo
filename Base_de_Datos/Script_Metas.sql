@@ -1,0 +1,12 @@
+--create table metas (descripcion varchar (200));
+--select * from metas;
+--insert into metas (descripcion) values ('Ser como Ellon Musk');
+--insert into metas (descripcion) values ('Ir a Marte');
+--insert into metas (descripcion) values ('Viajar por todo el mundo');
+--insert into metas (descripcion) values ('Escalar el Monte Everest');
+--select * from metas;
+--select count (*) from metas;
+--select count (*) as num from metas;
+--update metas set descripcion = 'Ir a Paris' where descripcion = 'Escalar el Monte Everest';
+--delete from metas where descripcion = 'Ir a Paris';
+select * from metas;
